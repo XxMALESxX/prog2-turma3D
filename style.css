@@ -124,7 +124,7 @@ body {
 }
 
 .contador-digito-texto{
-    color: var(--verde);
+    color: var(a--verde);
     font-size: 20px;
     margin: 0;
 
